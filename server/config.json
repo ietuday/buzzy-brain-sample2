@@ -1,0 +1,5 @@
+{
+    "connectionString": "mongodb://localhost:27017/buzzy-brain-testDB",
+    "apiUrl": "http://localhost:4000",
+    "secret": "UDAYADITYA"
+}
